@@ -1,3 +1,9 @@
+# AI-Assisted Software Systems Designer
+
+I design AI-assisted software production systems. My work focuses on role-specialized agents, machine-readable project representations, dependency analysis, content-addressed storage, semantic navigation, and reversible automation. I use LLMs for implementation while I design the workflows, constraints, information architecture, and verification systems around them.
+
+My work centers on building the digital equivalent of jigs, fixtures, gauges, and control systems: tools that make difficult technical work repeatable, observable, recoverable, and easier to direct.
+
 ## Hi there 👋
 
 <!--
